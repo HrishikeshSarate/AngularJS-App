@@ -1,6 +1,14 @@
 # AngularJS-App
 Single page application with dynamic features.
 # Arthris-Do-it
+Steps:
+1)Open the folder in VS Code
+2)Run the index.html file using live server
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
